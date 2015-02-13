@@ -3,7 +3,7 @@ PracticeHTML
 Este repositorio sera usado para implementar el curso practico de html en la comunidad, utilizando la git and github.
 
 ##Recursos
-- Presentacion Introducción al HTML, [Link](https://github.com/ivajo26/IntroHTML),
+- Presentacion Introducción al HTML, [Link](http://ivajo26.github.io/IntroHTML/#1),
 - Libro Introduccion a XHTML [Link](http://librosweb.es/xhtml/)
 
 ##Actividad
