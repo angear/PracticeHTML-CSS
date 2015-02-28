@@ -9,5 +9,6 @@ Este repositorio sera usado para implementar el curso practico de html en la com
 
 ##Actividad
 - Clonar el repositorio remoto en nuestros diferentes computarores.
+- Crear una nueva branch(El nombre de la branch debe tener su  nombre de usuario), crear tu propia pagina web a partir de los archivos iniciales.
 - Crear contenidos en diferentes documentos, utilizando las diversas etiquetas aprendidas.
-- Subir los diferentes cambion al repositorio remoto, y observar nuestra actividad en http://devhunterco.github.io/PracticeHTML-CSS/
+- Subir los diferentes cambion al repositorio remoto.
